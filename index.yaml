@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  prometheus-grafana-blackbox-chart:
+  - apiVersion: v2
+    appVersion: 0.1.0 beta
+    created: "2022-11-09T01:39:04.6094845+02:00"
+    description: A Helm chart for Prometheus + Grafana + Blackbox exporter deployment
+    digest: e8b25ae8bb5d8370f323bf73cd1ed7205d8f34c2f21927ad13061064aacba4d6
+    name: prometheus-grafana-blackbox-chart
+    type: application
+    urls:
+    - https://dfy24.github.io/unitest/prometheus-grafana-blackbox-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-09T01:39:04.6076063+02:00"
